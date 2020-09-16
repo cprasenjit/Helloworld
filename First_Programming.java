@@ -4,7 +4,8 @@ public class First_Programming {
 		
 
 		System.out.println("This is jenkins training");
-		System.out.println("This is first project");
+		System.out.println("Integrated with Git Poll SCM");
+                
 
 		
 	}
